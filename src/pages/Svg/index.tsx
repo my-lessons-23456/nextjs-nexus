@@ -11,6 +11,9 @@ export const SvgPage: Page = () => {
         <li>
           <Link href="/svg/1-interval">Interval</Link>
         </li>
+        <li>
+          <Link href="/svg/2-editor">Editor</Link>
+        </li>
       </ul>
     </>
   )
